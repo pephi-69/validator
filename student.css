@@ -1,0 +1,8 @@
+.profile-pic{
+    width: 100px;
+    height: 100px;
+    background-image: url(image/ship.jfif);
+    background-size: cover;
+    background-position: center;
+    border-radius: 50%;
+}

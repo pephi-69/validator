@@ -1,0 +1,44 @@
+*{
+    margin: 00vh;
+    padding: 00vh;
+    box-sizing:content-box;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  
+
+}
+
+button{
+    background-color:#454645;
+    color:antiquewhite;
+    cursor:pointer;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    text-align: center;
+    display: inline-flex;
+    font-size: 12px;
+    transition: duration 0.4s; 
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+button:hover{
+    background: color #454645;;
+}
+
+body{
+  
+    background:linear-gradient(90deg, #0b0b0b, #1a1dd3c2) ;
+    color:blue;
+    text-align: center;
+
+    
+}
+input{
+    cursor:auto;
+    text-align:left;
+    background-color: rgb(63, 167, 215);
+    color: white;
+    font-style: italic;
+}   
+
+
+
